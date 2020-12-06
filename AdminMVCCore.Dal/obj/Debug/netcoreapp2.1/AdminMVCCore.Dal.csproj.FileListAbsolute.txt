@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\bin\Debug\netcoreapp2.1\AdminMVCCore.Entities.dll
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\obj\Debug\netcoreapp2.1\AdminMVCCore.Dal.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\obj\Debug\netcoreapp2.1\AdminMVCCore.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\obj\Debug\netcoreapp2.1\AdminMVCCore.Dal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\obj\Debug\netcoreapp2.1\AdminMVCCore.Dal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\bin\Debug\netcoreapp2.1\AdminMVCCore.Dal.deps.json
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\bin\Debug\netcoreapp2.1\AdminMVCCore.Dal.dll
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\bin\Debug\netcoreapp2.1\AdminMVCCore.Dal.pdb
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\bin\Debug\netcoreapp2.1\AdminMVCCore.Entities.pdb
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\obj\Debug\netcoreapp2.1\AdminMVCCore.Dal.csproj.CopyComplete
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\obj\Debug\netcoreapp2.1\AdminMVCCore.Dal.dll
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\obj\Debug\netcoreapp2.1\AdminMVCCore.Dal.pdb
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\bin\Debug\netcoreapp2.1\AdminMVCCore.Dal.runtimeconfig.json
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Dal\bin\Debug\netcoreapp2.1\AdminMVCCore.Dal.runtimeconfig.dev.json

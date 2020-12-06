@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AdminMVCCore.Entities.Tables.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customer List</h2>
+
+<p>
+    <button class="btn-info"> <a style="color:white" asp-action="Create">Create New</a></button>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                First Name
+            </th>
+            <th>
+                Last Name
+            </th>
+            <th>
+                City
+            </th>
+            <th>
+                Identity Number
+            </th>
+            <th>
+                Phone Number
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerLastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerCity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerIdentityNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerPhone)
+            </td>
+            <td>
+                <button class="btn-success"><a style="color:white" asp-action="Update" asp-route-id="@item.Id">Edit</a></button> |
+                |
+                <button class="btn-danger"><a style="color:white" asp-action="Delete" onclick="return confirm('Silmek İstediğinize Emin misiniz?');" asp-route-id="@item.Id">Delete</a></button>
+</td>
+        </tr>
+}
+    </tbody>
+</table>

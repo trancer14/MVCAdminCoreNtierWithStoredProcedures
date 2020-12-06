@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\bin\Release\netcoreapp2.1\AdminMVCCore.Entities.deps.json
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\bin\Release\netcoreapp2.1\AdminMVCCore.Entities.runtimeconfig.json
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\bin\Release\netcoreapp2.1\AdminMVCCore.Entities.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\bin\Release\netcoreapp2.1\AdminMVCCore.Entities.dll
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\bin\Release\netcoreapp2.1\AdminMVCCore.Entities.pdb
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\obj\Release\netcoreapp2.1\AdminMVCCore.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\obj\Release\netcoreapp2.1\AdminMVCCore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\obj\Release\netcoreapp2.1\AdminMVCCore.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\obj\Release\netcoreapp2.1\AdminMVCCore.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\obj\Release\netcoreapp2.1\AdminMVCCore.Entities.dll
+C:\Users\Admin\source\repos\AdminMVCCore\AdminMVCCore.Entities\obj\Release\netcoreapp2.1\AdminMVCCore.Entities.pdb
